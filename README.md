@@ -1,6 +1,6 @@
 - 👋 Hi, I’m KeithTurner1
-- 👀 I’m interested in Java / Spring Boot
-- 🌱 I’m currently learning Java / Spring Boot
+- 👀 I’m interested in Java / Spring Boot / Linux
+- 🌱 I’m currently learning Java / Spring Boot / Linux
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me turnerkj_git@protonmail.com
 
